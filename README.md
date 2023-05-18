@@ -4,7 +4,7 @@ A JavaScript application for a pokedex
 ## Technologies used
 - IDE: Visual Studio Code 1.78.2
 - Language: JavaScript
-- Othes: CSS, HTML5
+- Others: CSS, HTML5
 
 ### Operational system
 - Windows 10
