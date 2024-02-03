@@ -1,24 +1,34 @@
-# List Pokemon
-A JavaScript application for a pokedex
+<h1 align="center" id="title">List Pokemon</h1>  
+  
+<p id="description">A replica of a pokedex with some pokemons</p>  
+</br>  
+<h2>🧐 Features</h2>
 
-## Technologies used
+* It's a cool pokedex
+
+</br>  
+  
+<h2>💻 Built with</h2>  
+
+
 - IDE: Visual Studio Code 1.78.2
 - Language: JavaScript
-- Others: CSS, HTML5
+- Others: CSS, HTML5  
+  
+</br>  
+  
+<h2>🛠️ How to use:</h2>  
 
-### Operational system
-- Windows 10
 
-**How to run:**<br>
-Clone the repository in a folder.
-Open the project in your preferential IDE and just run the main application.
+- You need [Git](https://git-scm.com/)  
+- In the terminal:  
 
-**Alternative to run :**<br>
-Clone the repository in a folder.
-Open a terminal or command prompt at your cloned project folder.
-Execute: mvn clean install
-Run the command: mvn spring-boot:run or java -jar .\target\AgenciaViagem-0.0.1-SNAPSHOT.jar to have the API running at port 8089.
 
-**Tips:**<br>
-Check your java version in your terminal command prompt: java --version
-Check your apache mavem version in your terminal command prompt: mvn --version
+```bash  
+# Clone the project  
+$ git clone https://github.com/LucasSimoesSilva/list-pokemon.git
+# Go to the project folder  
+$ cd list-pokemon
+```  
+
+- So in your favorite browser, you open the index.html
